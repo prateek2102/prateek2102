@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek2102&show_icons=true&locale=en" alt="prateek2102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek2102&" alt="prateek2102" /></p>
+[![An image of @prateek2102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prateek2102)](https://holopin.io/@prateek2102)
