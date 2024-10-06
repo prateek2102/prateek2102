@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek2102" alt="prateek2102" /></a> </p>
 
-- 🔭 I’m currently working on [Chat-Mate](chatbotbyai.vercel.app)
+- 🔭 I’m currently working on [Chat-Mate](https://www.chatbotbyai.vercel.app)
 
 - 🌱 I’m currently learning **Next.js**
 
